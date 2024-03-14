@@ -1,0 +1,93 @@
+# Historias de Usuario y Criterios de Aceptación
+
+## RQ-WEB-0001: Acceder al sistema o aplicación
+- Rol: Usuario/Cliente
+- Características/Funcionalidad: Ingresar al sistema/aplicación web
+- Razón/Resultado: Acceder al sistema/aplicación web
+
+### Criterios de Aceptación
+
+#### Escenario 1: Acceder a la página principal
+- Cuando [ingreso a la tienda web]
+- El sistema [muestra interfaz / menú de opciones]
+
+#### Escenario 2: Acceder al login del sitio
+- Cuando [ingresa a mi cuenta, despliega opción de iniciar sesión]
+- El sistema [muestra interfaz de inicio de sesión]
+
+#### Escenario 3: Ingresar credenciales
+- Cuando [ingresa credenciales]
+- El sistema [accede a la cuenta e información del usuario]
+
+#### Escenario 4: Ingresar al sitio
+- Cuando [ingresa al sitio]
+- El sistema [permite la gestión de compra / consultas de información del usuario]
+
+## RQ-WEB-0002: Cerrar sesión del sistema o aplicación
+- Rol: Usuario/Cliente
+- Características/Funcionalidad: Salir del sistema/Aplicación Web
+- Razón/Resultado: Salir del sistema/Aplicación Web
+
+### Criterios de Aceptación
+
+#### Escenario 1: Acceso a la página del sitio
+- Cuando [ingreso al menú principal]
+- El sistema [muestra interfaz / menú de opciones]
+
+#### Escenario 2: Seleccionar cerrar sesión
+- Cuando [ingresa mi cuenta e indica cerrar sesión]
+- El sistema [despliega la opción de cerrar sesión y procede con el cierre]
+
+#### Escenario 3: Mostrar página de login
+- Cuando [cierra sesión]
+- El sistema [muestra interfaz de inicio de sesión]
+
+#### Escenario 4: Acceder a la página principal
+- Cuando [ingresa a continuar como invitado]
+- El sistema [muestra interfaz / menú de opciones]
+
+## RQ-WEB-0003: Crear usuario cliente
+- Rol: Usuario/Cliente
+- Características/Funcionalidad: Que un cliente tenga un usuario
+- Razón/Resultado: Que un cliente tenga un usuario
+
+### Criterios de Aceptación
+
+#### Escenario 1: Acceder a la página principal
+- Cuando [accede a la página de administración]
+- El sistema [muestra la opción de registro de usuario]
+
+#### Escenario 2: Acceder al registro de usuario
+- Cuando [selecciona la opción de registro]
+- El sistema [muestra el formulario de registro de usuario]
+
+#### Escenario 3: Ingresar la información de usuario
+- Cuando [ingresa la información requerida]
+- El sistema [valida los datos ingresados]
+
+#### Escenario 4: Seleccionar crear usuario
+- Cuando [selecciona crear usuario]
+- El sistema [crea la cuenta de usuario y muestra un mensaje de confirmación]
+
+## RQ-WEB-0004: Crear usuario de sistema
+- Rol: Administrador de sistema
+- Características/Funcionalidad: Que un administrador de aplicación tenga un usuario
+- Razón/Resultado: Que un administrador de aplicación tenga un usuario
+
+### Criterios de Aceptación
+
+#### Escenario 1: Acceder a la página principal
+- Cuando [accede a la página de administración]
+- El sistema [muestra la opción de registro de usuario de sistema]
+
+#### Escenario 2: Acceder al registro de usuario
+- Cuando [selecciona la opción de registro]
+- El sistema [muestra el formulario de registro de usuario de sistema]
+
+#### Escenario 3: Ingresar la información de usuario
+- Cuando [ingresa la información requerida]
+- El sistema [valida los datos ingresados]
+
+#### Escenario 4: Seleccionar crear usuario
+- Cuando [selecciona crear usuario]
+- El sistema [crea la cuenta de usuario de sistema y muestra un mensaje de confirmación]
